@@ -1,0 +1,4 @@
+seller_id,seller_name,country,status,created_at
+SEL_01,TechCraft Supplies,IN,ACTIVE,2025-11-01T10:00:00Z
+SEL_02,Urban Threads,us,ACTIVE,2025-12-05T14:20:00Z
+SEL_03,Global Goods,CA,SUSPENDED,2026-01-02T09:00:00Z

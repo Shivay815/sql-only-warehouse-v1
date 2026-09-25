@@ -1,0 +1,4 @@
+customer_id,email,first_name,last_name,created_at,updated_at
+CUST_101,aisha.sharma@example.com,Aisha,Sharma,2026-01-15T08:30:00Z,2026-01-15T08:30:00Z
+CUST_102,rahul.verma@example.com,Rahul,Verma,2026-01-16T09:15:00Z,2026-01-18T10:00:00Z
+CUST_103,invalid_email_at_domain,Priya,Nair,2026-01-20T11:00:00Z,2026-01-20T11:00:00Z

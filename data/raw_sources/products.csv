@@ -1,0 +1,4 @@
+product_id,seller_id,category_name,unit_price,updated_at
+PROD_501,SEL_01,Electronics,299.99,2026-01-10T12:00:00Z
+PROD_502,SEL_02,Apparel,45.50,2026-01-12T15:30:00Z
+PROD_503,SEL_01,Electronics,-10.00,2026-01-14T08:00:00Z

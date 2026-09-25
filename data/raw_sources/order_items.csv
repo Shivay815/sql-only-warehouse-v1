@@ -1,0 +1,5 @@
+order_id,order_item_id,product_id,quantity,price_at_purchase
+ORD_1001,1,PROD_501,1,299.99
+ORD_1001,2,PROD_502,1,45.50
+ORD_1002,1,PROD_502,1,45.50
+ORD_1003,1,PROD_501,1,299.99
